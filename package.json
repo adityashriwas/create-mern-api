@@ -1,6 +1,6 @@
 {
   "name": "create-mern-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opinionated CLI to scaffold a production-ready MERN backend",
   "type": "module",
   "bin": {
