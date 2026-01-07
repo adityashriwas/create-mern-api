@@ -1,0 +1,26 @@
+{
+  "name": "create-mern-api",
+  "version": "1.0.0",
+  "description": "Opinionated CLI to scaffold a production-ready MERN backend",
+  "type": "module",
+  "bin": {
+    "create-mern-api": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "keywords": [
+    "mern",
+    "express",
+    "backend",
+    "cli",
+    "scaffold",
+    "boilerplate"
+  ],
+  "author": "Aditya Shriwas",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
