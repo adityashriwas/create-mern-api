@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # create-mern-api
 
 A professional CLI tool to scaffold a **production-ready MERN backend** with a clean architecture, best practices, and minimal setup.
@@ -134,12 +136,20 @@ You are expected to:
 
 ---
 
+## Bug Reports and Feedback
+
+If you encounter any bugs or have feedback, please report them via **GitHub Issues**.  
+Pull requests are also welcome.
+
+---
+
 ## Author
 
-**Aditya Shriwas**
+[Aditya Shriwas](https://github.com/adityashriwas)
 
 ---
 
 ## License
+This project is licensed under the MIT License.
+Copyright © 2026 [Aditya Shriwas](https://github.com/adityashriwas)
 
-MIT License
