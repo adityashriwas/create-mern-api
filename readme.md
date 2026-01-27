@@ -10,7 +10,7 @@ A professional CLI tool to scaffold a **production-ready MERN backend** with cle
 
 Build scalable, maintainable backend applications in seconds. Ship faster, code better. 🚀
 
-[Features](#features) • [Installation](#installation) • [Quick Start](#quick-start) • [Architecture](#architecture) • [Configuration](#configuration) • [Scripts](#scripts)
+[Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Project Structure](#-project-structure) • [Configuration](#-configuration-guide) • [Scripts](#️-available-scripts)
 
 </div>
 
@@ -360,7 +360,7 @@ This tool embodies these principles by providing a production-ready foundation t
 
 Made with ❤️ by Aditya Shriwas
 
-[⭐ Star on GitHub](https://github.com/aditya-shriwas) • [📦 NPM Package](https://www.npmjs.com/package/create-mern-api) • [🐛 Report Issue](https://github.com/aditya-shriwas/create-mern-api/issues)
+[⭐ Star on GitHub](https://github.com/adityashriwas/create-mern-api) • [📦 NPM Package](https://www.npmjs.com/package/create-mern-api) • [🐛 Report Issue](https://github.com/adityashriwas/create-mern-api/issues)
 
 </div>
 
