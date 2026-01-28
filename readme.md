@@ -287,14 +287,14 @@ app.get('/api/v1/users/profile', verifyJWT, (req, res) => {
 
 ## 🌟 Best Practices Included
 
-✅ **Clean Code** - Consistent formatting with ESLint & Prettier
-✅ **Error Handling** - Centralized error management
-✅ **Security** - CORS, helmet-ready, environment variables
-✅ **Database** - Mongoose schema validation
-✅ **Async/Await** - Modern async patterns with error handling
-✅ **Modular** - Easy to extend with new routes/models
-✅ **Documentation** - Self-documenting code structure
-✅ **Development** - Hot reload with Nodemon
+- ✅ **Clean Code** - Consistent formatting with ESLint & Prettier
+- ✅ **Error Handling** - Centralized error management
+- ✅ **Security** - CORS, helmet-ready, environment variables
+- ✅ **Database** - Mongoose schema validation
+- ✅ **Async/Await** - Modern async patterns with error handling
+- ✅ **Modular** - Easy to extend with new routes/models
+- ✅ **Documentation** - Self-documenting code structure
+- ✅ **Development** - Hot reload with Nodemon
 
 ---
 
